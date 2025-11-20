@@ -51,4 +51,4 @@ Rendere la pagina responsive, facendo in modo che le card si dispongano su più 
 
 Ecco uno screenshot di come potrebbe apparire il risultato finale:
 
-!Screenshot dell'esercizio completato
+![Screenshot del progetto](./screenshot.png)
